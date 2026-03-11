@@ -6,14 +6,14 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar!](https://iscorvo.github.io/NLW-eSports-Explore/)
+[🔗 Clique aqui para acessar!](https://calebemedeiros.github.io/NLW-eSports-Explore/)
 
 ## 🖥️ Tecnoligias
 
-- HTNL
+- HTML
 - CSS
 - Git e Github
 
 ## ✔️ Contato
 
-franciscocalebe@gmai.com
+franciscocalebe@gmail.com
